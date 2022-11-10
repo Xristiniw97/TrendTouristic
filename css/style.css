@@ -43,10 +43,9 @@ font-family: 'Manrope', sans-serif;
     box-shadow: none;
 }
 
-html,
-body,
-ul,
-ol {
+*,
+*::before,
+*::after {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
